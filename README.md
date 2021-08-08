@@ -1,10 +1,15 @@
 # Welcome to AI-ML-for-Newborn-Babies-in-Healthcare👋
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/prathimacode-hub) 
-[![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/prathimacode-hub) 
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) 
-[![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square)](https://github.com/prathimacode-hub)
-[![Maintenance](https://img.shields.io/maintenance/yes/2021)](https://github.com/prathimacode-hub)
+<p align="center">
+<img src="https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare/blob/main/.github/images/AI-ML%20for%20NewBorn%20Babies%20in%20HealthCare.png"></a>
+</p>
+<p align="center">
+<a href="https://github.com/SamarthMR"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github"></a> 
+<a href="https://github.com/SamarthMR"><img src="https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green"></a> 
+<a href="https://github.com/SamarthMR"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square"></a>
+<a href="https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare/graphs/contributors"><img src="https://img.shields.io/github/contributors-anon/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare"></a>
+<a href="https://github.com/SamarthMR"><img src="https://img.shields.io/maintenance/yes/2021"></a>
+</p> 
 
 
 <h2> 📌Repository</h2>
@@ -144,6 +149,13 @@ This project is a part of these open source programs.
     <td>40</td>
   </tr>
 </table>
+
+Once your **PR is merged**, make sure you fill up this form.
+
+**Form Link** : https://docs.google.com/forms/d/e/1FAIpQLScVUg-QjTeL8pmEaXlwsDL6wlfOJek33SwMP6hj3UZGJ13_3Q/viewform
+
+You can check out your points scored here : **[DCP_SCORECARD](https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare/blob/main/.github/DCP_SCORECARD.md
+)** <br>
 
 
 <h2>✨Hall Of Fame</h2>   
