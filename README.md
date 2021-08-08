@@ -11,6 +11,16 @@
 <a href="https://github.com/SamarthMR"><img src="https://img.shields.io/maintenance/yes/2021"></a>
 </p> 
 
+<p align="center">
+<a href="https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare/stargazers"><img src="https://badgen.net/github/stars/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare"></a>
+<a href="https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare/network/members"><img src="https://badgen.net/github/forks/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare"></a>
+<a href="https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare/issues"><img src="https://badgen.net/github/open-issues/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare"></a>
+<a href="https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare/issues?q=is%3Aissue+is%3Aclosed"><img src="https://badgen.net/github/closed-issues/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare"></a>
+<a href="https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare/pulls"><img src="https://badgen.net/github/prs/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare"></a>
+<a href="https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare/pulls"><img src="https://badgen.net/github/open-prs/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare"></a>
+<a href="https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare/pulls?q=is%3Apr+is%3Aclosed"><img src="https://badgen.net/github/closed-prs/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare"></a>
+</p>
+
 
 <h2> 📌Repository</h2>
 
