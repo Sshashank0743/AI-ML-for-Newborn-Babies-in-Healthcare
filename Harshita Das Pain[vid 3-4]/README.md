@@ -71,17 +71,17 @@ Here are the sample of output from each category:
 
 - No-Mild Pain
 <p align="center">
-<img src="https://github.com/iharshidas/AI-ML-for-Newborn-Babies-in-Healthcare/blob/main/Harshita%20Das%20Pain%5Bvid%201-2%5D/Image%20Dataset/No-Mild%20Pain/1.jpg"></a>
+<img src="https://github.com/iharshidas/AI-ML-for-Newborn-Babies-in-Healthcare/blob/main/Harshita%20Das%20Pain%5Bvid%203-4%5D/Image%20Dataset/No-Mild%20Pain/101.jpg"></a>
 </p>
 
 - Moderate Pain
 <p align="center">
-<img src="https://github.com/iharshidas/AI-ML-for-Newborn-Babies-in-Healthcare/blob/main/Harshita%20Das%20Pain%5Bvid%201-2%5D/Image%20Dataset/Moderate%20Pain/23.jpg"></a>
+<img src="https://github.com/iharshidas/AI-ML-for-Newborn-Babies-in-Healthcare/blob/main/Harshita%20Das%20Pain%5Bvid%203-4%5D/Image%20Dataset/Moderate%20Pain/173.jpg"></a>
 </p>
 
 - Severe Pain 
 <p align="center">
-<img src="https://github.com/iharshidas/AI-ML-for-Newborn-Babies-in-Healthcare/blob/main/Harshita%20Das%20Pain%5Bvid%201-2%5D/Image%20Dataset/Severe%20Pain/100.jpg"></a>
+<img src="https://github.com/iharshidas/AI-ML-for-Newborn-Babies-in-Healthcare/blob/main/Harshita%20Das%20Pain%5Bvid%203-4%5D/Image%20Dataset/Severe%20Pain/161.jpg"></a>
 </p>
 
 
