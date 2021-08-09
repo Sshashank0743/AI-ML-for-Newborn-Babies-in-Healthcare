@@ -63,7 +63,20 @@ Watched tutorials and read blogs on how to use OpenCv and extract images using O
 
 SCREENSHOTS
 
-The images in the Image_Dataset folder are the Output of my code.
+Here are the sample of output from each category:
+
+No_Pain
+![PAIN_VID_23_newborn0](https://user-images.githubusercontent.com/75740971/128691228-decc17d2-9dca-46d3-98cf-91095af515ff.jpg)
+
+Mild_Pain
+![PAIN_VID_23_newborn2](https://user-images.githubusercontent.com/75740971/128691324-e6290bb9-9926-4a67-a64a-268af961a414.jpg)
+
+Moderate_Pain
+![PAIN_VID_23_newborn3](https://user-images.githubusercontent.com/75740971/128691390-9f86e2a1-507c-4c1d-a5b1-796d055018ef.jpg)
+
+Severe_Pain
+![PAIN_VID_23_newborn5](https://user-images.githubusercontent.com/75740971/128691437-34d9cf60-ca8f-4a4f-b3a9-c57512ec3ed0.jpg)
+
 
 
 CONCLUSION
