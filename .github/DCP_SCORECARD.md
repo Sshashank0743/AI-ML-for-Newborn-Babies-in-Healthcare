@@ -66,4 +66,11 @@ Github : https://github.com/vishvarana <br>
 Number of PR's : 1 <br>
 Projects Done : Pain[vid 11-12] (Level ) | <br>
 Points :  <br>
-Email Id : 
+Email Id : vishvarana2009@gmail.com
+
+Name : Harshita Das <br>
+Github : https://github.com/iharshidas <br>
+Number of PR's : 1 <br>
+Projects Done : Pain[vid 1-2] (Level 3) | <br>
+Points : 40 <br>
+Email Id : harshitadas03@gmail.com
