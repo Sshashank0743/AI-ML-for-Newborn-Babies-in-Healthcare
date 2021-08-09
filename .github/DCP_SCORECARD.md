@@ -74,3 +74,10 @@ Number of PR's : 1 <br>
 Projects Done : Pain[vid 1-2] (Level 3) | <br>
 Points : 40 <br>
 Email Id : harshitadas03@gmail.com
+
+Name : Nalin Verma <br>
+Github : https://github.com/MrNobody09 <br>
+Number of PR's : 1 <br>
+Projects Done : Pain[vid 23-24] (Level 3) | <br>
+Points : 40 <br>
+Email Id : nalinverma0905@gmail.com
