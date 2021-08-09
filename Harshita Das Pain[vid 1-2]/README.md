@@ -14,6 +14,7 @@ After extracting images, classify them as per the baby's facial expression and s
 **DATASET**
 
 Dataset-[Video Files](https://livemissouristate-my.sharepoint.com/:f:/g/personal/nyc10040_missouristate_edu/Ev2GCLuXRK1DsgbeiRGRywkBBzLLqRH-OKaMi3rFHuM3iA?e=Zm3XcU)
+
 Password :- 3maF'N+53xKj{
 
 
@@ -69,8 +70,19 @@ This was when I learnt about glob package and how it can be used to retrieve fil
 Here are the sample of output from each category:
 
 - No-Mild Pain
+<p align="center">
+<img src="https://github.com/iharshidas/AI-ML-for-Newborn-Babies-in-Healthcare/blob/main/Harshita%20Das%20Pain%5Bvid%201-2%5D/Image%20Dataset/No-Mild%20Pain/1.jpg"></a>
+</p>
+
 - Moderate Pain
-- Severe Pain
+<p align="center">
+<img src="https://github.com/iharshidas/AI-ML-for-Newborn-Babies-in-Healthcare/blob/main/Harshita%20Das%20Pain%5Bvid%201-2%5D/Image%20Dataset/Moderate%20Pain/23.jpg"></a>
+</p>
+
+- Severe Pain 
+<p align="center">
+<img src="https://github.com/iharshidas/AI-ML-for-Newborn-Babies-in-Healthcare/blob/main/Harshita%20Das%20Pain%5Bvid%201-2%5D/Image%20Dataset/Severe%20Pain/100.jpg"></a>
+</p>
 
 
 **CONCLUSION**
@@ -86,7 +98,7 @@ After implementing this code, extracting images and classifying them, the datase
 **NAME OF AUTHOR**
 
 ### Harshita Das 
-- Github :- [@iharshidas](https://github.com/iharshidas)
+- [Follow me on Github](https://github.com/iharshidas)
 - [Connect with me on LinkedIn](https://www.linkedin.com/in/harshitadas)
 
 <!--**DISCLAIMER, IF ANY**
