@@ -64,8 +64,8 @@ Email Id : dev247kumar@gmail.com
 Name : Vishva Rana <br>
 Github : https://github.com/vishvarana <br>
 Number of PR's : 1 <br>
-Projects Done : Pain[vid 11-12] (Level ) | <br>
-Points :  <br>
+Projects Done : Pain[vid 11-12] (Level 2) | <br>
+Points : 20 <br>
 Email Id : vishvarana2009@gmail.com
 
 Name : Harshita Das <br>
