@@ -1,8 +1,8 @@
 <h1> DCP - SCORE CARD 2021 ✨✨✨ </h1> <br>
 <h2> Welcome to the Repo Officially!!..🙌👏 </h2> <br>
 
-## Total Number Of PR's : 10
-## Total Number of Contributors : 10
+## Total Number Of PR's : 11
+## Total Number of Contributors : 11
 
   
 Name : Swathi A <br>
