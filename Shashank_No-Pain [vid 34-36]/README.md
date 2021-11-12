@@ -9,7 +9,7 @@ Shashank_No-Pain [vid 34-36] #23
 
 **PURPOSE**
 
-Babies can't express his/her pain by verbal so that here we are researching how to predict wheather baby feeling pain or not.
+Babies can't express his/her pain verbally, so here we are researching how to predict whether a baby is feeling pain or not.
 
 
 **DATASET**
